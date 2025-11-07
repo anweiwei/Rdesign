@@ -54,7 +54,7 @@ dependencies:
     - locket==1.0.0
     - lpips==0.1.4
     - mmengine
-    - mmcv
+   #- mmcv
     - mock==4.0.3
     - mpmath==1.2.1
     - mypy-extensions==0.4.3
